@@ -8,13 +8,12 @@ Travel Details (CSV): https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7
 
 ## Tools
 <ul>
-    <li>Python<li/>
-    <li>Pandas<li/>
-<ul/>
-
+    <li>Python</li>
+    <li>Pandas</li>
+</ul>
 
 ## Steps
 <ul>
-    <li>Extract data<li/>
-    <li>Clean data<li/>
-<ul/>
+    <li>Extract data</li>
+    <li>Clean data</li>
+</ul>
