@@ -14,7 +14,6 @@ Travel Details (CSV): https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7
 
 
 ## Steps
-
 <ul>
     <li>Extract data<li/>
     <li>Clean data<li/>
