@@ -9,14 +9,15 @@ Travel Details (CSV): https://drive.google.com/uc?id=1muwnik-uFGTKBdHmcQN5z68rD7
 
 US Demography (JSON): https://public.opendatasoft.com/api/explore/v2.1/catalog/datasets/uscities-demographics/exports/json?lang=en&timezone=Africa%2FLagos
 
+
 ## Tools
 <ul>
-    <li>Python<li/>
-    <li>Pandas<li/>
-<ul/>
+    <li>Python</>
+    <li>Pandas</>
+</ul>
 
 ## Steps
-<ul>
-    <li>Extract Data<li/>
-    <li>Clean Data<li/>
-<ul/>
+<ol>
+    <li>Extract Data</li>
+    <li>Clean Data</li>
+</ol>
