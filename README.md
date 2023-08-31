@@ -31,5 +31,6 @@ US Demography (JSON): https://public.opendatasoft.com/api/explore/v2.1/catalog/d
     <li> How many of their employees visited Florida? What are the male and female population statistics?</li>
     <li> Which state has the most veterans? Which employees travelled there?</li> 
     <li> What is the gender breakdown of the most populated city?</li> 
-    <li> How many veterans exist in the state visited by Evan Clarke? Q8. What month has the most travels?</li>
+    <li> How many veterans exist in the state visited by Evan Clarke?</li> 
+    <li> What month has the most travels?</li>
 </ol>
